@@ -183,6 +183,7 @@ p {
 article h2 {
 	border-bottom: solid 1px #FF9B26;
   padding-bottom: 5px;
+  margin-bottom: 30px;
 }
 
 article img {
@@ -345,4 +346,15 @@ article hr {
 	border: solid .5px #efefef;
 	border-bottom: 0;
 
+}
+
+
+kbd {
+  background: #FF9B26;
+  color: #fff;
+  padding: 2px 3px;
+  margin-right: 5px;
+  border: solid 1px #FF9B26;
+  border-radius: 3px;
+  box-shadow: 1px 1px 2px #ccc;
 }
